@@ -1,0 +1,3 @@
+It uses bcrypt to encrypt the data, and is more secured as compared to md5.
+
+Also it is using 10 rounds of salting to encrypt the password.
